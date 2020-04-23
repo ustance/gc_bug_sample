@@ -1,0 +1,5 @@
+package t;
+
+class Base {
+	
+}
